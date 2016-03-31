@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project xmlns='http://maven.apache.org/POM/4.0.0' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd'>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.grails.plugins</groupId>
+  <artifactId>jquery-validation</artifactId>
+  <packaging>zip</packaging>
+  <version>1.9</version>
+  <name>JQuery Validation Plugin</name>
+  <description>\
+Simply supplies jQuery Validation resources, depends on jQuery plugin. Use this plugin to avoid resource duplication and conflicts.
+</description>
+  <url>http://grails.org/plugin/jquery-validation</url>
+  <developers>
+    <developer>
+      <name>Lim Chee Kin</name>
+      <email>limcheekin@vobject.com</email>
+    </developer>
+  </developers>
+  <dependencies />
+</project>
